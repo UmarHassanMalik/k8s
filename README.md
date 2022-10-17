@@ -1,2 +1,7 @@
 # k8s
-Kubernetes YAML file
+Kubernetes YAML files
+
+- Replicasets 
+- Jobs 
+- Namespace 
+- Annotation
